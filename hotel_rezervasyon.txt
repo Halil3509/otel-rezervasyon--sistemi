@@ -1,0 +1,5 @@
+isim:2
+soyisim:5
+giris tarihi: 2002 8 5
+donus tarihi: 2002 10 5
+----------------------------

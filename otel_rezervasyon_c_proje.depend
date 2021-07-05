@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625468058 source:c:\users\halil\desktop\c örnekler\otel_rezervasyon_c_proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
